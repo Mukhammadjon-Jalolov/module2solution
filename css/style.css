@@ -39,7 +39,7 @@ p {
 .titel1 {
 	border: 1px solid black;
 	background-color: #f2a2ac;
-	width: 30%;
+	width: 120px;
 	text-align: right;
 	float: right;
 	padding: 5px;
@@ -47,7 +47,7 @@ p {
 .titel2 {
 	border: 1px solid black;
 	background-color: #d46a68;
-	width: 30%;
+	width: 120px;
 	text-align: right;
 	float: right;
 	color: white;
@@ -56,7 +56,7 @@ p {
 .titel3 {
 	border: 1px solid black;
 	background-color: #f5f2a4;
-	width: 30%;
+	width: 120px;
 	text-align: right;
 	float: right;
 	padding: 5px;
